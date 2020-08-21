@@ -1,6 +1,6 @@
-# Twitter Bot with Python
+# Twitter Bots with Python
 ### Uses Tweepy for the following functions:
-1.Updating Statuses
-2.Following Followers
-3.Retweeting Favourites
+##### 1.Updating Statuses
+##### 2.Following Followers
+##### 3.Retweeting Favourites
 
